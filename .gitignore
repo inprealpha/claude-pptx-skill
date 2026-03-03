@@ -1,0 +1,20 @@
+# Generated files
+*.pptx
+*.pdf
+unpacked/
+thumbnails*.jpg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
